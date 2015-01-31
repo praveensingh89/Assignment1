@@ -1,0 +1,3 @@
+write the command “gcc -framework Cocoa anagram.h -o demo”
+path to the file “words”.
+run the object file is “./demo [filapath]” 
