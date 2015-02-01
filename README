@@ -1,3 +1,7 @@
-write the command “gcc -framework Cocoa anagram.h -o demo”
+Name : Praveen Snghkharwar
+CWID : 802368233
+Email : praveen89@csu.fullerton.edu
+
+write the command “gcc -framework Cocoa main.h -o demo”
 path to the file “words”.
 run the object file is “./demo [filapath]” 
